@@ -48,7 +48,7 @@ Czwartek, 14.00:
 
 1. Krakowiak Michał
 1. Tkaczyk Michał
-1. Chlebba Adam
+1. [Chlebba Adam](https://github.com/AChlebba/ASI)
 1. Darznik Dawid
 1. Drewing Maciej
 1. Drzewicka Maja
