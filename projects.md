@@ -41,6 +41,7 @@ Wpisujemy według schematu:
 *Uwaga:* W pliku _README.md_ należy wpisać wszystkich autorów aplikacji.
 
 1. [ADHD](https://github.com/romety2/asi_egz).  [Wypok](http://spalonytoster.me/)
+1. [SMMA](https://github.com/Strugacki/LecturerRatingAppRoR).  [LecturerRating]()
 
 ## Projekty na zaliczenie
 
